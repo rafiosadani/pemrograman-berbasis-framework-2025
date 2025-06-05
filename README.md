@@ -10,14 +10,15 @@ Repositori ini menyimpan koleksi tugas mingguan, kuis, serta project UTS dan UAS
 
 | 📅 Pertemuan | 📝 Materi                                                                                     | 🔗 Repository                                                                 |
 |:------------:|-----------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------|
-| 1            | Pengantar Pemrograman Berbasis Framework dan ReactJS                                         | [01-introduction-to-fbp-and-reactjs](https://github.com/rafiosadani/01-introduction-to-fbp-and-reactjs) |
-| 2            | Fundamental ReactJS                                                                           | [02-reactjs-fundamentals-basic](https://github.com/rafiosadani/02-reactjs-fundamentals-basic) |
-| 3            | Pengenalan NextJS                                                                             | [03-introduction-nextjs](https://github.com/rafiosadani/03-introduction-nextjs)  |
-| 4            | Kuis 1                                                                                        | [quiz1-framework-react](https://github.com/rafiosadani/04-quiz1-framework-based-programming)    |
-| 5            | Membangun Website Pribadi dengan NextJS (App Router), React, dan Tailwind CSS                | [05-personal-site-nextjs-tailwind](https://github.com/rafiosadani/05-personal-site-nextjs-tailwindcss) |
-| 6            | Membuat Halaman yang SEO-Friendly dengan NextJS                                              | [06-nextjs-seo-optimization](https://github.com/rafiosadani/06-nextjs-seo-optimization) |
-| 7            | State Management dalam NextJS                                                                 | [07-nextjs-state-managements](https://github.com/rafiosadani/07-nextjs-state-managements) |
-| 8            | UTS                                                                                           | [midterm-framework-project](https://github.com/rafiosadani/08-mid-test-framework-based-programming) |
+| 1            | Pengantar Pemrograman Berbasis Framework dan ReactJS                                         | <a href="https://github.com/rafiosadani/01-introduction-to-fbp-and-reactjs" target="_blank">01-introduction-to-fbp-and-reactjs</a> |
+| 2            | Fundamental ReactJS                                                                           | <a href="https://github.com/rafiosadani/02-reactjs-fundamentals-basic" target="_blank">02-reactjs-fundamentals-basic</a> |
+| 3            | Pengenalan NextJS                                                                             | <a href="https://github.com/rafiosadani/03-introduction-nextjs" target="_blank">03-introduction-nextjs</a> |
+| 4            | Kuis 1                                                                                        | <a href="https://github.com/rafiosadani/04-quiz1-framework-based-programming" target="_blank">04-quiz1-framework-based-programming</a> |
+| 5            | Membangun Website Pribadi dengan NextJS (App Router), React, dan Tailwind CSS                | <a href="https://github.com/rafiosadani/05-personal-site-nextjs-tailwindcss" target="_blank">05-personal-site-nextjs-tailwindcss</a> |
+| 6            | Membuat Halaman yang SEO-Friendly dengan NextJS                                              | <a href="https://github.com/rafiosadani/06-nextjs-seo-optimization" target="_blank">06-nextjs-seo-optimization</a> |
+| 7            | State Management dalam NextJS                                                                 | <a href="https://github.com/rafiosadani/07-nextjs-state-managements" target="_blank">07-nextjs-state-managements</a> |
+| 8            | UTS                                                                                           | <a href="https://github.com/rafiosadani/08-mid-test-framework-based-programming" target="_blank">08-mid-test-framework-based-programming</a> |
+
 
 ---
 
